@@ -1,0 +1,5 @@
+data/
+model/model.h5
+.idea/
+venv/
+model/
